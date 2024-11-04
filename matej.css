@@ -1,0 +1,20 @@
+p{
+    color: blanchedalmond;
+}
+h2{
+    color: aqua;
+}
+h1{
+    color: darkolivegreen;
+}
+.first{
+    color: aquamarine;
+}
+.second{
+    color: coral;
+   font-family:'Courier New', Courier, monospace ;
+   font-size: 40px;
+}
+.zvýraznit{
+    background-color: bisque;
+}
